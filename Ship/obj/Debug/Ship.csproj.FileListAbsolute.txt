@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Ship\Ship\bin\Debug\Ship.exe.config
+C:\Users\Dell\source\repos\Ship\Ship\bin\Debug\Ship.exe
+C:\Users\Dell\source\repos\Ship\Ship\bin\Debug\Ship.pdb
+C:\Users\Dell\source\repos\Ship\Ship\obj\Debug\Ship.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Ship\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ship\Ship\obj\Debug\Ship.exe
+C:\Users\Dell\source\repos\Ship\Ship\obj\Debug\Ship.pdb
